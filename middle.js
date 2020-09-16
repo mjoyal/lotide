@@ -10,3 +10,8 @@ const middle = function (arr) {
   }
   return middleArr;
 };
+
+
+console.log(middle(["a","b", "c", "d", "e"])); // => [2, 3]
+console.log(middle([1, 2, 3, 4, 5, 6, 7 ,8])); // => [3, 4]
+
