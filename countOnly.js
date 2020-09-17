@@ -19,6 +19,3 @@ const countOnly = function (arr, objectOriginal) {
   return newObject;
 };
 
-
-
-
