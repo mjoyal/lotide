@@ -19,3 +19,4 @@ const countOnly = function (arr, objectOriginal) {
   return newObject;
 };
 
+module.exports = countOnly; 

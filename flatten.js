@@ -12,4 +12,4 @@ const flatten = function (array) {
   return newArray; 
 };
 
-console.log(flatten());
+module.exports = flatten; 

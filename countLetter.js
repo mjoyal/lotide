@@ -26,4 +26,4 @@ const countLetters = function (sentence) {
   return newObject;
 };
 
-console.log(countLetters("lighthouse in the house"));
+module.exports = countLetters; 
